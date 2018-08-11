@@ -1,2 +1,2 @@
 # serverless-web-application
-Build a serverless web application on AWS.
+Build a server-less web application on AWS with ReactJS.
